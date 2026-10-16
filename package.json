@@ -1,8 +1,0 @@
-{
-  "name": "good-dog-club",
-  "version": "1.0.0",
-  "private": true,
-  "description": "A friendly dog care website with a SQLite-backed API.",
-  "scripts": { "start": "node server.js", "dev": "node server.js" },
-  "engines": { "node": ">=22.5.0" }
-}
